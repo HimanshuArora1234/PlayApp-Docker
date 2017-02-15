@@ -3,7 +3,7 @@ A docker image to run your play application without the hassle of actually insta
 
 ## How to run
 
-First download the dockerfile and place it in a folder. Then run the docker build command to that folder to build your images as follows:
+First download the dockerfile and place it in a folder. Then run the docker build command to that folder to build your images as follows: <br />
  `docker build -t NameOfDockerImage .`
  
  And that's how you can run the image:
